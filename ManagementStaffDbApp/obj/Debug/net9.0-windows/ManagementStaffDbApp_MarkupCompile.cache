@@ -1,0 +1,20 @@
+﻿ManagementStaffDbApp
+
+
+winexe
+C#
+.cs
+C:\Users\su660\Desktop\ОБУЧЕНИЕ C#\5. Отработка пройденного материала\2. WPF + MVVM (Компания)\ManagementStaffDbApp\ManagementStaffDbApp\ManagementStaffDbApp\obj\Debug\net9.0-windows\
+ManagementStaffDbApp
+none
+false
+TRACE;DEBUG;NET;NET9_0;NETCOREAPP
+C:\Users\su660\Desktop\ОБУЧЕНИЕ C#\5. Отработка пройденного материала\2. WPF + MVVM (Компания)\ManagementStaffDbApp\ManagementStaffDbApp\ManagementStaffDbApp\App.xaml
+8-66496519
+
+171621444575
+230-46541373
+MainWindow.xaml;View\AddNewDepartmentWindow.xaml;View\AddNewPositionWindow.xaml;View\AddNewUserWindow.xaml;View\EditDepartmentWindow.xaml;View\EditPositionWindow.xaml;View\EditUserWindow.xaml;View\MessageView.xaml;
+
+True
+
