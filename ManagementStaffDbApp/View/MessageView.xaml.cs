@@ -12,15 +12,15 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace ManagementStaffDbApp.View
+namespace ManagementStaffDbApp.View;
+
+/// <summary>
+/// Логика взаимодействия для MessageView.xaml
+/// </summary>
+public partial class MessageView : Window
 {
-    /// <summary>
-    /// Логика взаимодействия для MessageView.xaml
-    /// </summary>
-    public partial class MessageView : Window
+    public MessageView()
     {
-        public MessageView()
-        {
-            InitializeComponent();
-        }
+        InitializeComponent();
+    }
 }

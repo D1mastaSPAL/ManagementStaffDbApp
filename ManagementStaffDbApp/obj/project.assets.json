@@ -4011,11 +4011,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\su660\\Desktop\\ОБУЧЕНИЕ C#\\5. Отработка пройденного материала\\2. WPF + MVVM (Компания)\\ManagementStaffDbApp\\ManagementStaffDbApp\\ManagementStaffDbApp\\ManagementStaffDbApp.csproj",
+      "projectUniqueName": "C:\\Users\\su660\\Desktop\\ОБУЧЕНИЕ C#\\5. Отработка пройденного материала\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\ManagementStaffDbApp.csproj",
       "projectName": "ManagementStaffDbApp",
-      "projectPath": "C:\\Users\\su660\\Desktop\\ОБУЧЕНИЕ C#\\5. Отработка пройденного материала\\2. WPF + MVVM (Компания)\\ManagementStaffDbApp\\ManagementStaffDbApp\\ManagementStaffDbApp\\ManagementStaffDbApp.csproj",
+      "projectPath": "C:\\Users\\su660\\Desktop\\ОБУЧЕНИЕ C#\\5. Отработка пройденного материала\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\ManagementStaffDbApp.csproj",
       "packagesPath": "C:\\Users\\su660\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\su660\\Desktop\\ОБУЧЕНИЕ C#\\5. Отработка пройденного материала\\2. WPF + MVVM (Компания)\\ManagementStaffDbApp\\ManagementStaffDbApp\\ManagementStaffDbApp\\obj\\",
+      "outputPath": "C:\\Users\\su660\\Desktop\\ОБУЧЕНИЕ C#\\5. Отработка пройденного материала\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

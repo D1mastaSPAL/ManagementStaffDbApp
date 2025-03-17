@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CnU11lacyYc=",
+  "dgSpecHash": "Y3/zPQ6Li/Q=",
   "success": true,
-  "projectFilePath": "C:\\Users\\su660\\Desktop\\ОБУЧЕНИЕ C#\\5. Отработка пройденного материала\\2. WPF + MVVM (Компания)\\ManagementStaffDbApp\\ManagementStaffDbApp\\ManagementStaffDbApp\\ManagementStaffDbApp.csproj",
+  "projectFilePath": "C:\\Users\\su660\\Desktop\\ОБУЧЕНИЕ C#\\5. Отработка пройденного материала\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\ManagementStaffDbApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\su660\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\su660\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
