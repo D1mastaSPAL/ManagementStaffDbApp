@@ -3,7 +3,8 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:ManagementStaffDbApp.View"
+        xmlns:local="clr-namespace:ManagementStaffDbApp.View" 
+        xmlns:viewmodel="clr-namespace:ManagementStaffDbApp.ViewModel" d:DataContext="{d:DesignInstance Type=viewmodel:DataManageVM}"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
@@ -56,20 +57,22 @@
                         Text="Departmens">
                     </TextBlock>
                 </TabItem.Header>
-                <ListView ItemsSource="{Binding AllDepartmens}">
+                <ListView ItemsSource="{Binding AllDepartments}">
                     <ListView.View>
                         <GridView>
-                            <GridViewColumn Header="Name"/>
-                            <GridViewColumn Header="Count of positions"/>
+                            <GridViewColumn Header="Name"
+                                            DisplayMemberBinding="{Binding Path=Name}"/>
+                            <GridViewColumn Header="Count of positions"
+                                            DisplayMemberBinding="{Binding Path=Positions.Count}"/>
                         </GridView>
                     </ListView.View>
                 </ListView>
             </TabItem>
         </TabControl>
         <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Right">
-            <Button Content="Новый сотрудник" Command="{Binding}"/>
-            <Button Content="Новая позиция" Command="{Binding}"/>
-            <Button Content="Новый отдел" Command="{Binding}"/>
+            <Button Content="Новый сотрудник" Command="{Binding OpenRegistryUserWindow}"/>
+            <Button Content="Новая позиция" Command="{Binding OpenRegistryPosWindow}"/>
+            <Button Content="Новый отдел" Command="{Binding OpenRegistryDepWindow}"/>
         </StackPanel>
     </Grid>
 </Window>

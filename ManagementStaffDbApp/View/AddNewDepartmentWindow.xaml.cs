@@ -1,27 +1,21 @@
-﻿using System;
+﻿using ManagementStaffDbApp.ViewModel;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Shapes;
 
-namespace ManagementStaffDbApp.View
+namespace ManagementStaffDbApp.View;
+
+/// <summary>
+/// Логика взаимодействия для AddNewDepartmentWindow.xaml
+/// </summary>
+public partial class AddNewDepartmentWindow : Window
 {
-    /// <summary>
-    /// Логика взаимодействия для AddNewDepartmentWindow.xaml
-    /// </summary>
-    public partial class AddNewDepartmentWindow : Window
+    public AddNewDepartmentWindow()
     {
-        public AddNewDepartmentWindow()
-        {
-            InitializeComponent();
-        }
+        InitializeComponent();
+        DataContext = new DataManageVM();
     }
 }

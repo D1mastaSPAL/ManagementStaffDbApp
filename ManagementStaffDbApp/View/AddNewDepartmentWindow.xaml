@@ -5,7 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ManagementStaffDbApp.View"
         mc:Ignorable="d"
-        Title="AddNewDepartmentWindow" Height="350" Width="350">
+        Title="AddNewDepartmentWindow" Height="350" Width="350"
+        Name="OpenRegistryDepWindow">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="*"/>
@@ -18,8 +19,9 @@
             VerticalAlignment="Center"
             Width="200">
             <TextBlock Text="Name"/>
-            <TextBox Text=""/>
+            <TextBox Name="NameBlock" Text="{Binding DepartmentName}"/>
         </StackPanel>
-        <Button Grid.Row ="1" Content="Add department"/>
+        <Button Grid.Row="1" Content="Add department" Command="{Binding AddNewDepartment}"
+                CommandParameter="{Binding ElementName=OpenRegistryDepWindow}"/>
     </Grid>
 </Window>

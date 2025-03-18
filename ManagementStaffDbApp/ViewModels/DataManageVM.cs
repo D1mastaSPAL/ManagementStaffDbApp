@@ -1,5 +1,7 @@
-﻿using ManagementStaffDbApp.Model;
+﻿using ManagementStaffDbApp.Command;
+using ManagementStaffDbApp.Model;
 using ManagementStaffDbApp.View;
+using Microsoft.EntityFrameworkCore.Query.Internal;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -7,6 +9,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Media;
 
 namespace ManagementStaffDbApp.ViewModel;
 
@@ -17,19 +21,20 @@ public class DataManageVM : INotifyPropertyChanged
 
     private void NotifyPropertyChanged(string propertyName)
     {
-        if (PropertyChanged != null)
-        {
-            PropertyChanged(this, new PropertyChangedEventArgs(propertyName));
-        }
+        PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
     }
 
-    //#region INotifyPropertyChanged_Implementation
-    //public event PropertyChangedEventHandler? PropertyChanged;
-    //private void OnPropertyChanged(string propertyName)
-    //{
-    //    PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
-    //}
-    //#endregion
+    private void SetBlockControl(Window wnd, string blockName)
+    {
+        Control block = (Control)wnd.FindName(blockName);
+        block.BorderBrush = Brushes.Red;
+    }
+
+    private void Message(string message)
+    {
+        MessageView messageView = new MessageView(message);
+        SetCenterPositionAndOpen(messageView);
+    }
 
     #region ImplementationCommand
     // Реализация команд
@@ -41,29 +46,99 @@ public class DataManageVM : INotifyPropertyChanged
         set
         {
             allDepartments = value;
-            NotifyPropertyChanged("AllDepartments");
+            NotifyPropertyChanged(nameof(Department));
         }
     }
 
-    private List<Position> allPosition = DataWorker.GetAllPosition();
-    public List<Position> AllPosition
+    private List<Position> allPositions = DataWorker.GetAllPosition();
+    public List<Position> AllPositions
     {
-        get { return AllPosition; }
+        get { return allPositions; }
         set
         {
-            AllPosition = value;
-            NotifyPropertyChanged("AllPositions");
+            allPositions = value;
+            NotifyPropertyChanged(nameof(Position));
         }
     }
 
     private List<User> allUsers = DataWorker.GetAllUser();
     public List<User> AllUsers
     {
-        get { return AllUsers; }
+        get { return allUsers; }
         set
         {
-            AllUsers = value;
-            NotifyPropertyChanged("AllUsers");
+            allUsers = value;
+            NotifyPropertyChanged(nameof(User));
+        }
+    }
+    #endregion
+
+    #region CommandsToAdd
+    //
+    public string DepartmentName { get; set; }
+
+    private RelayCommand addNewDepartment;
+    public RelayCommand AddNewDepartment
+    {
+        get
+        {
+            return addNewDepartment ?? new RelayCommand(obj =>
+            {
+                Window wnd = (Window)obj; // Получаем окно, которое передается в команду
+                string resultCmdDep = "";
+                // Проверка, что название отдела не пустое или состоящее только из пробелов
+                if (DepartmentName == null || DepartmentName.Replace(" ", "").Length == 0)
+                {
+                    SetBlockControl(wnd, "NameBlock"); // Подсвечиваем поле, если название отдела пустое
+                }
+                else
+                {
+                    resultCmdDep = DataWorker.CreateDepartment(DepartmentName); // Создаем отдел
+                    Message(resultCmdDep); // Показать сообщение о результате
+                    wnd.Close(); // Закрываем окно
+                }
+            }
+            );
+        }
+    }
+    #endregion
+
+
+    #region CommandsToOpenWindows
+    //
+    private RelayCommand openRegistryDepWindow;
+    public RelayCommand OpenRegistryDepWindow
+    {
+        get
+        {
+            return openRegistryDepWindow ?? new RelayCommand(
+                obj => OpenAddDepartmentWindow(),
+                obj => true // Можно добавить сюда логику проверки, например, если окно уже открыто.
+            );
+        }
+    }
+
+    private RelayCommand openRegistryPosWindow;
+    public RelayCommand OpenRegistryPosWindow
+    {
+        get
+        {
+            return openRegistryPosWindow ?? new RelayCommand(
+                obj => OpenAddPositionWindow(),
+                obj => true // Можно добавить сюда логику проверки, например, если окно уже открыто.
+            );
+        }
+    }
+
+    private RelayCommand openRegistryUserWindow;
+    public RelayCommand OpenRegistryUserWindow
+    {
+        get
+        {
+            return openRegistryUserWindow ?? new RelayCommand(
+                obj => OpenAddUserWindow(),
+                obj => true // Можно добавить сюда логику проверки, например, если окно уже открыто.
+            );
         }
     }
     #endregion
@@ -87,6 +162,28 @@ public class DataManageVM : INotifyPropertyChanged
         AddNewUserWindow newUserWindow = new AddNewUserWindow();
         SetCenterPositionAndOpen(newUserWindow);
     }
+    #endregion
+
+    #region MethodsFromEditWindow
+    //Методы изменения открытых окон
+    private void OpenEditDepartmentWindow()
+    {
+        EditDepartmentWindow editDepartmentWindow = new EditDepartmentWindow();
+        SetCenterPositionAndOpen(editDepartmentWindow);
+    }
+
+    private void OpenEditPositionWindow()
+    {
+        EditPositionWindow editPositionWindow = new EditPositionWindow();
+        SetCenterPositionAndOpen(editPositionWindow);
+    }
+
+    private void OpenEditUserWindow()
+    {
+        EditUserWindow editUserWindow = new EditUserWindow();
+        SetCenterPositionAndOpen(editUserWindow);
+    }
+    #endregion
 
     private void SetCenterPositionAndOpen(Window window)
     {
@@ -94,7 +191,4 @@ public class DataManageVM : INotifyPropertyChanged
         window.WindowStartupLocation = WindowStartupLocation.CenterOwner;
         window.ShowDialog();
     }
-    #endregion
-
-
 }

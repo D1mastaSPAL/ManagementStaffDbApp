@@ -3,47 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E74565E-BF2E-4AD8-8331-B8446715D80A}|ManagementStaffDbApp\\ManagementStaffDbApp.csproj|c:\\users\\su660\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435 c#\\5. \u043E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. wpf_mvvm (company)\\managementstaffdbapp\\managementstaffdbapp\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E74565E-BF2E-4AD8-8331-B8446715D80A}|ManagementStaffDbApp\\ManagementStaffDbApp.csproj|solutionrelative:managementstaffdbapp\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E74565E-BF2E-4AD8-8331-B8446715D80A}|ManagementStaffDbApp\\ManagementStaffDbApp.csproj|c:\\users\\su660\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435 c#\\5. \u043E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. wpf_mvvm (company)\\managementstaffdbapp\\managementstaffdbapp\\view\\addnewdepartmentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8E74565E-BF2E-4AD8-8331-B8446715D80A}|ManagementStaffDbApp\\ManagementStaffDbApp.csproj|solutionrelative:managementstaffdbapp\\view\\addnewdepartmentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E74565E-BF2E-4AD8-8331-B8446715D80A}|ManagementStaffDbApp\\ManagementStaffDbApp.csproj|c:\\users\\su660\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435 c#\\5. \u043E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. wpf_mvvm (company)\\managementstaffdbapp\\managementstaffdbapp\\viewmodels\\datamanagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E74565E-BF2E-4AD8-8331-B8446715D80A}|ManagementStaffDbApp\\ManagementStaffDbApp.csproj|solutionrelative:managementstaffdbapp\\viewmodels\\datamanagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E74565E-BF2E-4AD8-8331-B8446715D80A}|ManagementStaffDbApp\\ManagementStaffDbApp.csproj|c:\\users\\su660\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435 c#\\5. \u043E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. wpf_mvvm (company)\\managementstaffdbapp\\managementstaffdbapp\\view\\addnewdepartmentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E74565E-BF2E-4AD8-8331-B8446715D80A}|ManagementStaffDbApp\\ManagementStaffDbApp.csproj|solutionrelative:managementstaffdbapp\\view\\addnewdepartmentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E74565E-BF2E-4AD8-8331-B8446715D80A}|ManagementStaffDbApp\\ManagementStaffDbApp.csproj|c:\\users\\su660\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435 c#\\5. \u043E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. wpf_mvvm (company)\\managementstaffdbapp\\managementstaffdbapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8E74565E-BF2E-4AD8-8331-B8446715D80A}|ManagementStaffDbApp\\ManagementStaffDbApp.csproj|solutionrelative:managementstaffdbapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E74565E-BF2E-4AD8-8331-B8446715D80A}|ManagementStaffDbApp\\ManagementStaffDbApp.csproj|c:\\users\\su660\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435 c#\\5. \u043E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. wpf_mvvm (company)\\managementstaffdbapp\\managementstaffdbapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E74565E-BF2E-4AD8-8331-B8446715D80A}|ManagementStaffDbApp\\ManagementStaffDbApp.csproj|solutionrelative:managementstaffdbapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E74565E-BF2E-4AD8-8331-B8446715D80A}|ManagementStaffDbApp\\ManagementStaffDbApp.csproj|c:\\users\\su660\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435 c#\\5. \u043E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. wpf_mvvm (company)\\managementstaffdbapp\\managementstaffdbapp\\command\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E74565E-BF2E-4AD8-8331-B8446715D80A}|ManagementStaffDbApp\\ManagementStaffDbApp.csproj|solutionrelative:managementstaffdbapp\\command\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E74565E-BF2E-4AD8-8331-B8446715D80A}|ManagementStaffDbApp\\ManagementStaffDbApp.csproj|c:\\users\\su660\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435 c#\\5. \u043E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. wpf_mvvm (company)\\managementstaffdbapp\\managementstaffdbapp\\models\\dataworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E74565E-BF2E-4AD8-8331-B8446715D80A}|ManagementStaffDbApp\\ManagementStaffDbApp.csproj|solutionrelative:managementstaffdbapp\\models\\dataworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E74565E-BF2E-4AD8-8331-B8446715D80A}|ManagementStaffDbApp\\ManagementStaffDbApp.csproj|c:\\users\\su660\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435 c#\\5. \u043E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. wpf_mvvm (company)\\managementstaffdbapp\\managementstaffdbapp\\migrations\\20250316220014_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E74565E-BF2E-4AD8-8331-B8446715D80A}|ManagementStaffDbApp\\ManagementStaffDbApp.csproj|solutionrelative:managementstaffdbapp\\migrations\\20250316220014_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF \u002B MVVM (\u041A\u043E\u043C\u043F\u0430\u043D\u0438\u044F)\\ManagementStaffDbApp\\ManagementStaffDbApp\\Migrations\\20250316214920_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E74565E-BF2E-4AD8-8331-B8446715D80A}|ManagementStaffDbApp\\ManagementStaffDbApp.csproj|c:\\users\\su660\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435 c#\\5. \u043E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. wpf_mvvm (company)\\managementstaffdbapp\\managementstaffdbapp\\viewmodels\\datamanagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E74565E-BF2E-4AD8-8331-B8446715D80A}|ManagementStaffDbApp\\ManagementStaffDbApp.csproj|solutionrelative:managementstaffdbapp\\viewmodels\\datamanagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E74565E-BF2E-4AD8-8331-B8446715D80A}|ManagementStaffDbApp\\ManagementStaffDbApp.csproj|c:\\users\\su660\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435 c#\\5. \u043E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. wpf_mvvm (company)\\managementstaffdbapp\\managementstaffdbapp\\view\\messageview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E74565E-BF2E-4AD8-8331-B8446715D80A}|ManagementStaffDbApp\\ManagementStaffDbApp.csproj|solutionrelative:managementstaffdbapp\\view\\messageview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E74565E-BF2E-4AD8-8331-B8446715D80A}|ManagementStaffDbApp\\ManagementStaffDbApp.csproj|c:\\users\\su660\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435 c#\\5. \u043E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. wpf_mvvm (company)\\managementstaffdbapp\\managementstaffdbapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E74565E-BF2E-4AD8-8331-B8446715D80A}|ManagementStaffDbApp\\ManagementStaffDbApp.csproj|solutionrelative:managementstaffdbapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E74565E-BF2E-4AD8-8331-B8446715D80A}|ManagementStaffDbApp\\ManagementStaffDbApp.csproj|c:\\users\\su660\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435 c#\\5. \u043E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. wpf_mvvm (company)\\managementstaffdbapp\\managementstaffdbapp\\command\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E74565E-BF2E-4AD8-8331-B8446715D80A}|ManagementStaffDbApp\\ManagementStaffDbApp.csproj|solutionrelative:managementstaffdbapp\\command\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E74565E-BF2E-4AD8-8331-B8446715D80A}|ManagementStaffDbApp\\ManagementStaffDbApp.csproj|c:\\users\\su660\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435 c#\\5. \u043E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. wpf_mvvm (company)\\managementstaffdbapp\\managementstaffdbapp\\managementstaffdbapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{8E74565E-BF2E-4AD8-8331-B8446715D80A}|ManagementStaffDbApp\\ManagementStaffDbApp.csproj|solutionrelative:managementstaffdbapp\\managementstaffdbapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{8E74565E-BF2E-4AD8-8331-B8446715D80A}|ManagementStaffDbApp\\ManagementStaffDbApp.csproj|c:\\users\\su660\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435 c#\\5. \u043E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. wpf_mvvm (company)\\managementstaffdbapp\\managementstaffdbapp\\view\\messageview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8E74565E-BF2E-4AD8-8331-B8446715D80A}|ManagementStaffDbApp\\ManagementStaffDbApp.csproj|solutionrelative:managementstaffdbapp\\view\\messageview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E74565E-BF2E-4AD8-8331-B8446715D80A}|ManagementStaffDbApp\\ManagementStaffDbApp.csproj|c:\\users\\su660\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435 c#\\5. \u043E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. wpf_mvvm (company)\\managementstaffdbapp\\managementstaffdbapp\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E74565E-BF2E-4AD8-8331-B8446715D80A}|ManagementStaffDbApp\\ManagementStaffDbApp.csproj|solutionrelative:managementstaffdbapp\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E74565E-BF2E-4AD8-8331-B8446715D80A}|ManagementStaffDbApp\\ManagementStaffDbApp.csproj|c:\\users\\su660\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435 c#\\5. \u043E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. wpf_mvvm (company)\\managementstaffdbapp\\managementstaffdbapp\\models\\dataworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E74565E-BF2E-4AD8-8331-B8446715D80A}|ManagementStaffDbApp\\ManagementStaffDbApp.csproj|solutionrelative:managementstaffdbapp\\models\\dataworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E74565E-BF2E-4AD8-8331-B8446715D80A}|ManagementStaffDbApp\\ManagementStaffDbApp.csproj|c:\\users\\su660\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435 c#\\5. \u043E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. wpf_mvvm (company)\\managementstaffdbapp\\managementstaffdbapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E74565E-BF2E-4AD8-8331-B8446715D80A}|ManagementStaffDbApp\\ManagementStaffDbApp.csproj|solutionrelative:managementstaffdbapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E74565E-BF2E-4AD8-8331-B8446715D80A}|ManagementStaffDbApp\\ManagementStaffDbApp.csproj|c:\\users\\su660\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435 c#\\5. \u043E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. wpf_mvvm (company)\\managementstaffdbapp\\managementstaffdbapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E74565E-BF2E-4AD8-8331-B8446715D80A}|ManagementStaffDbApp\\ManagementStaffDbApp.csproj|solutionrelative:managementstaffdbapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E74565E-BF2E-4AD8-8331-B8446715D80A}|ManagementStaffDbApp\\ManagementStaffDbApp.csproj|c:\\users\\su660\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435 c#\\5. \u043E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. wpf_mvvm (company)\\managementstaffdbapp\\managementstaffdbapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8E74565E-BF2E-4AD8-8331-B8446715D80A}|ManagementStaffDbApp\\ManagementStaffDbApp.csproj|solutionrelative:managementstaffdbapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E74565E-BF2E-4AD8-8331-B8446715D80A}|ManagementStaffDbApp\\ManagementStaffDbApp.csproj|c:\\users\\su660\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435 c#\\5. \u043E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. wpf_mvvm (company)\\managementstaffdbapp\\managementstaffdbapp\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E74565E-BF2E-4AD8-8331-B8446715D80A}|ManagementStaffDbApp\\ManagementStaffDbApp.csproj|solutionrelative:managementstaffdbapp\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E74565E-BF2E-4AD8-8331-B8446715D80A}|ManagementStaffDbApp\\ManagementStaffDbApp.csproj|c:\\users\\su660\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435 c#\\5. \u043E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. wpf_mvvm (company)\\managementstaffdbapp\\managementstaffdbapp\\view\\addnewpositionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8E74565E-BF2E-4AD8-8331-B8446715D80A}|ManagementStaffDbApp\\ManagementStaffDbApp.csproj|solutionrelative:managementstaffdbapp\\view\\addnewpositionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E74565E-BF2E-4AD8-8331-B8446715D80A}|ManagementStaffDbApp\\ManagementStaffDbApp.csproj|c:\\users\\su660\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435 c#\\5. \u043E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. wpf_mvvm (company)\\managementstaffdbapp\\managementstaffdbapp\\view\\addnewuserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8E74565E-BF2E-4AD8-8331-B8446715D80A}|ManagementStaffDbApp\\ManagementStaffDbApp.csproj|solutionrelative:managementstaffdbapp\\view\\addnewuserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -53,11 +70,100 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataManageVM.cs",
+              "DocumentMoniker": "C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\ViewModels\\DataManageVM.cs",
+              "RelativeDocumentMoniker": "ManagementStaffDbApp\\ViewModels\\DataManageVM.cs",
+              "ToolTip": "C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\ViewModels\\DataManageVM.cs",
+              "RelativeToolTip": "ManagementStaffDbApp\\ViewModels\\DataManageVM.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwGEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T21:15:37.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MessageView.xaml",
+              "DocumentMoniker": "C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\View\\MessageView.xaml",
+              "RelativeDocumentMoniker": "ManagementStaffDbApp\\View\\MessageView.xaml",
+              "ToolTip": "C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\View\\MessageView.xaml",
+              "RelativeToolTip": "ManagementStaffDbApp\\View\\MessageView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-18T11:31:40.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddNewDepartmentWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\View\\AddNewDepartmentWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ManagementStaffDbApp\\View\\AddNewDepartmentWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\View\\AddNewDepartmentWindow.xaml.cs",
+              "RelativeToolTip": "ManagementStaffDbApp\\View\\AddNewDepartmentWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:06:10.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddNewDepartmentWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\View\\AddNewDepartmentWindow.xaml",
+              "RelativeDocumentMoniker": "ManagementStaffDbApp\\View\\AddNewDepartmentWindow.xaml",
+              "ToolTip": "C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\View\\AddNewDepartmentWindow.xaml",
+              "RelativeToolTip": "ManagementStaffDbApp\\View\\AddNewDepartmentWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-18T10:47:45.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataWorker.cs",
+              "DocumentMoniker": "C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\Models\\DataWorker.cs",
+              "RelativeDocumentMoniker": "ManagementStaffDbApp\\Models\\DataWorker.cs",
+              "ToolTip": "C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\Models\\DataWorker.cs",
+              "RelativeToolTip": "ManagementStaffDbApp\\Models\\DataWorker.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T11:00:38.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "ManagementStaffDbApp\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\Models\\Department.cs",
+              "RelativeToolTip": "ManagementStaffDbApp\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T12:10:20.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\Command\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "ManagementStaffDbApp\\Command\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\Command\\RelayCommand.cs",
+              "RelativeToolTip": "ManagementStaffDbApp\\Command\\RelayCommand.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:36:19.854Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -68,129 +174,96 @@
               "ToolTip": "C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\MainWindow.xaml",
               "RelativeToolTip": "ManagementStaffDbApp\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-17T13:18:42.51Z"
+              "WhenOpened": "2025-03-17T13:18:42.51Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "RelayCommand.cs",
-              "DocumentMoniker": "C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\Command\\RelayCommand.cs",
-              "RelativeDocumentMoniker": "ManagementStaffDbApp\\Command\\RelayCommand.cs",
-              "ToolTip": "C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\Command\\RelayCommand.cs",
-              "RelativeToolTip": "ManagementStaffDbApp\\Command\\RelayCommand.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T12:36:19.854Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DataWorker.cs",
-              "DocumentMoniker": "C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\Models\\DataWorker.cs",
-              "RelativeDocumentMoniker": "ManagementStaffDbApp\\Models\\DataWorker.cs",
-              "ToolTip": "C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\Models\\DataWorker.cs",
-              "RelativeToolTip": "ManagementStaffDbApp\\Models\\DataWorker.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAwCkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T11:00:38.878Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20250316220014_Initial.cs",
-              "DocumentMoniker": "C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\Migrations\\20250316220014_Initial.cs",
-              "RelativeDocumentMoniker": "ManagementStaffDbApp\\Migrations\\20250316220014_Initial.cs",
-              "ToolTip": "C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\Migrations\\20250316220014_Initial.cs",
-              "RelativeToolTip": "ManagementStaffDbApp\\Migrations\\20250316220014_Initial.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAgwF4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T22:00:14.612Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "20250316214920_Initial.cs",
-              "DocumentMoniker": "C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF \u002B MVVM (\u041A\u043E\u043C\u043F\u0430\u043D\u0438\u044F)\\ManagementStaffDbApp\\ManagementStaffDbApp\\Migrations\\20250316214920_Initial.cs",
-              "RelativeDocumentMoniker": "..\\..\\2. WPF \u002B MVVM (\u041A\u043E\u043C\u043F\u0430\u043D\u0438\u044F)\\ManagementStaffDbApp\\ManagementStaffDbApp\\Migrations\\20250316214920_Initial.cs",
-              "ToolTip": "C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF \u002B MVVM (\u041A\u043E\u043C\u043F\u0430\u043D\u0438\u044F)\\ManagementStaffDbApp\\ManagementStaffDbApp\\Migrations\\20250316214920_Initial.cs",
-              "RelativeToolTip": "..\\..\\2. WPF \u002B MVVM (\u041A\u043E\u043C\u043F\u0430\u043D\u0438\u044F)\\ManagementStaffDbApp\\ManagementStaffDbApp\\Migrations\\20250316214920_Initial.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwC0AAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T21:49:20.835Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "MessageView.xaml.cs",
               "DocumentMoniker": "C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\View\\MessageView.xaml.cs",
               "RelativeDocumentMoniker": "ManagementStaffDbApp\\View\\MessageView.xaml.cs",
               "ToolTip": "C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\View\\MessageView.xaml.cs",
               "RelativeToolTip": "ManagementStaffDbApp\\View\\MessageView.xaml.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T21:17:23.025Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApplicationContext.cs",
-              "DocumentMoniker": "C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\Data\\ApplicationContext.cs",
-              "RelativeDocumentMoniker": "ManagementStaffDbApp\\Data\\ApplicationContext.cs",
-              "ToolTip": "C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\Data\\ApplicationContext.cs",
-              "RelativeToolTip": "ManagementStaffDbApp\\Data\\ApplicationContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T21:16:04.414Z",
+              "WhenOpened": "2025-03-18T11:32:33.15Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DataManageVM.cs",
-              "DocumentMoniker": "C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\ViewModels\\DataManageVM.cs",
-              "RelativeDocumentMoniker": "ManagementStaffDbApp\\ViewModels\\DataManageVM.cs",
-              "ToolTip": "C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\ViewModels\\DataManageVM.cs",
-              "RelativeToolTip": "ManagementStaffDbApp\\ViewModels\\DataManageVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ManagementStaffDbApp\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\AssemblyInfo.cs",
+              "RelativeToolTip": "ManagementStaffDbApp\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T21:15:37.873Z",
+              "WhenOpened": "2025-03-18T12:10:04.577Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\App.xaml",
+              "RelativeDocumentMoniker": "ManagementStaffDbApp\\App.xaml",
+              "ToolTip": "C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\App.xaml",
+              "RelativeToolTip": "ManagementStaffDbApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-18T10:41:04.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "ManagementStaffDbApp\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\MainWindow.xaml.cs",
               "RelativeToolTip": "ManagementStaffDbApp\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T21:15:31.317Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\App.xaml.cs",
-              "RelativeDocumentMoniker": "ManagementStaffDbApp\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\App.xaml.cs",
-              "RelativeToolTip": "ManagementStaffDbApp\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T21:15:26.457Z"
+              "WhenOpened": "2025-03-18T10:45:36.969Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ManagementStaffDbApp.csproj",
-              "DocumentMoniker": "C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\ManagementStaffDbApp.csproj",
-              "RelativeDocumentMoniker": "ManagementStaffDbApp\\ManagementStaffDbApp.csproj",
-              "ToolTip": "C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\ManagementStaffDbApp.csproj",
-              "RelativeToolTip": "ManagementStaffDbApp\\ManagementStaffDbApp.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-15T20:28:04.212Z"
+              "DocumentIndex": 14,
+              "Title": "AddNewUserWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\View\\AddNewUserWindow.xaml",
+              "RelativeDocumentMoniker": "ManagementStaffDbApp\\View\\AddNewUserWindow.xaml",
+              "ToolTip": "C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\View\\AddNewUserWindow.xaml",
+              "RelativeToolTip": "ManagementStaffDbApp\\View\\AddNewUserWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-18T10:43:04.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\Data\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "ManagementStaffDbApp\\Data\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\Data\\ApplicationContext.cs",
+              "RelativeToolTip": "ManagementStaffDbApp\\Data\\ApplicationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:26:58.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddNewPositionWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\View\\AddNewPositionWindow.xaml",
+              "RelativeDocumentMoniker": "ManagementStaffDbApp\\View\\AddNewPositionWindow.xaml",
+              "ToolTip": "C:\\Users\\su660\\Desktop\\\u041E\u0411\u0423\u0427\u0415\u041D\u0418\u0415 C#\\5. \u041E\u0442\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\\2. WPF_MVVM (Company)\\ManagementStaffDbApp\\ManagementStaffDbApp\\View\\AddNewPositionWindow.xaml",
+              "RelativeToolTip": "ManagementStaffDbApp\\View\\AddNewPositionWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-18T10:48:00.774Z",
+              "EditorCaption": ""
             }
           ]
         }
