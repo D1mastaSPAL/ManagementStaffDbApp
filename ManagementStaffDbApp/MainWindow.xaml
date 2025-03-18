@@ -12,22 +12,29 @@
             <RowDefinition Height="*"/>
             <RowDefinition Height="50"/>
         </Grid.RowDefinitions>
-        <TabControl Grid.Row="0">
+        <TabControl Grid.Row="0" SelectedItem="{Binding SelectedTabItem}">
             <TabItem Name="UsersTab">
                 <TabItem.Header>
                     <TextBlock 
                         Text="Staff">
                     </TextBlock>
                 </TabItem.Header>
-                <ListView ItemsSource="{Binding AllUsers}">
+                <ListView x:Name="ViewAllUsers" ItemsSource="{Binding AllUsers}"
+                          SelectedItem="{Binding SelectedUser}">
                     <ListView.View>
                         <GridView>
-                            <GridViewColumn Header="Name"/>
-                            <GridViewColumn Header="Surname"/>
-                            <GridViewColumn Header="Phone"/>
-                            <GridViewColumn Header="Salary"/>
-                            <GridViewColumn Header="Position"/>
-                            <GridViewColumn Header="Department"/>
+                            <GridViewColumn Header="Name"
+                                            DisplayMemberBinding="{Binding Path=Name}"/>
+                            <GridViewColumn Header="Surname"
+                                            DisplayMemberBinding="{Binding Path=Surname}"/>
+                            <GridViewColumn Header="Phone"
+                                            DisplayMemberBinding="{Binding Path=Phone}"/>
+                            <GridViewColumn Header="Salary"
+                                            DisplayMemberBinding="{Binding Path=UserPosition.Salary}"/>
+                            <GridViewColumn Header="Position"
+                                            DisplayMemberBinding="{Binding Path=UserPosition.Name}"/>
+                            <GridViewColumn Header="Department"
+                                            DisplayMemberBinding="{Binding Path=UserPosition.PositionDepartment.Name}"/>
 
                         </GridView>
                     </ListView.View>
@@ -39,14 +46,20 @@
                         Text="Positions">
                     </TextBlock>
                 </TabItem.Header>
-                <ListView ItemsSource="{Binding AllPositions}">
+                <ListView x:Name="ViewAllUPositions" ItemsSource="{Binding AllPositions}"
+                          SelectedItem="{Binding SelectedPosition}">
                     <ListView.View>
                         <GridView>
-                            <GridViewColumn Header="Name"/>
-                            <GridViewColumn Header="Salary"/>
-                            <GridViewColumn Header="Count of staffs"/>
-                            <GridViewColumn Header="Max numbers"/>
-                            <GridViewColumn Header="Department"/>
+                            <GridViewColumn Header="Name"
+                                            DisplayMemberBinding="{Binding Path=Name}"/>
+                            <GridViewColumn Header="Salary"
+                                            DisplayMemberBinding="{Binding Path=Salary}"/>
+                            <GridViewColumn Header="Count of staffs"
+                                            DisplayMemberBinding="{Binding Path=PositionUsers.Count}"/>
+                            <GridViewColumn Header="Max numbers"
+                                            DisplayMemberBinding="{Binding Path=MaxNumber}"/>
+                            <GridViewColumn Header="Department"
+                                            DisplayMemberBinding="{Binding Path=PositionDepartment.Name}"/>
                         </GridView>
                     </ListView.View>
                 </ListView>
@@ -57,13 +70,14 @@
                         Text="Departmens">
                     </TextBlock>
                 </TabItem.Header>
-                <ListView ItemsSource="{Binding AllDepartments}">
+                <ListView x:Name="ViewAllDepartments" ItemsSource="{Binding AllDepartments}"
+                          SelectedItem="{Binding SelectedDepartment}">
                     <ListView.View>
                         <GridView>
                             <GridViewColumn Header="Name"
                                             DisplayMemberBinding="{Binding Path=Name}"/>
                             <GridViewColumn Header="Count of positions"
-                                            DisplayMemberBinding="{Binding Path=Positions.Count}"/>
+                                            DisplayMemberBinding="{Binding Path=DepartmentPositions.Count}"/>
                         </GridView>
                     </ListView.View>
                 </ListView>

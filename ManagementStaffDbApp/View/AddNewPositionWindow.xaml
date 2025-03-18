@@ -5,7 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ManagementStaffDbApp.View"
         mc:Ignorable="d"
-        Title="AddNewPositionWindow" Height="350" Width="350">
+        Title="AddNewPositionWindow" Height="350" Width="350"
+        Name="OpenRegistryPosWindow">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="*"/>
@@ -18,15 +19,19 @@
             VerticalAlignment="Center"
             Width="200">
             <TextBlock Text="Name"/>
-            <TextBox Text=""/>
+            <TextBox Name="NameBlock" Text="{Binding PositionName}"/>
             <TextBlock Text="Salary"/>
-            <TextBox Text=""/>
+            <TextBox Name="SalaryBlock"
+                     PreviewTextInput="PreviewTextInput" Text="{Binding PositionSalary}"/>
             <TextBlock Text="Max of vacancies"/>
-            <TextBox Text=""/>
+            <TextBox Name="MaxnumberBlock" Text="{Binding PositionMaxNumber}"/>
             <TextBlock Text="Department"/>
-            <ComboBox>
+            <ComboBox ItemsSource="{Binding AllDepartments}" 
+                      DisplayMemberPath="Name"
+                      SelectedItem="{Binding PositionDepartment}"> 
             </ComboBox>
         </StackPanel>
-        <Button Grid.Row ="1" Content="Add position"/>
+        <Button Grid.Row ="1" Content="Add position" Command="{Binding AddNewPosition}"
+                CommandParameter="{Binding ElementName=OpenRegistryPosWindow}"/>
     </Grid>
 </Window>

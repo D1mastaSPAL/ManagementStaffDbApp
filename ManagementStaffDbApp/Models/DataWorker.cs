@@ -193,4 +193,44 @@ public static class DataWorker
         return resultEditUs;
     }
     #endregion
+
+    //Получение позиции по Id позиции
+    public static Position GetPositionById(int id)
+    {
+        using(ApplicationContext db = new ApplicationContext())
+        {
+            Position UpdatingPositionForUser = db.Positions.FirstOrDefault(_ => _.Id == id);
+            return UpdatingPositionForUser;
+        }
+    }
+
+    public static Department GetDepartmentById(int id)
+    {
+        using (ApplicationContext db = new ApplicationContext())
+        {
+            Department UpdatingDepartmentForUser = db.Departments.FirstOrDefault(_ => _.Id == id);
+            return UpdatingDepartmentForUser;
+        }
+    }
+
+    //получение всех пользователей по Id позиции
+    public static List<User> GetAllUsersByPositionId(int id)
+    {
+        using (ApplicationContext db = new ApplicationContext())
+        {
+            List<User> users = (from user in GetAllUser() where user.PositionId == id select user).ToList();
+            return users;
+        }
+    }
+
+    //получение всех позиций по Id отдела
+    public static List<Position> GetAllPositionsByDepartmentId(int id)
+    {
+        using (ApplicationContext db = new ApplicationContext())
+        {
+            List<Position> positions = (from position in GetAllPosition() where position.DepartmentId == id select position).ToList();
+            return positions;
+        }
+
+    }
 }
